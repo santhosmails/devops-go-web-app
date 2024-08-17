@@ -7,7 +7,7 @@ replicaCount: 3
 image:
   repository: santhosmails/devops-go-web-app
   pullPolicy: IfNotPresent
-  tag: "v3"
+  tag: "10432620653"
 
 service:
   type: NodePort
