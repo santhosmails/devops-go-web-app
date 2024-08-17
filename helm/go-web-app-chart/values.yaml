@@ -7,7 +7,7 @@ replicaCount: 3
 image:
   repository: santhosmails/devops-go-web-app
   pullPolicy: IfNotPresent
-  tag: "10432651920"
+  tag: "10432897104"
 
 service:
   type: ClusterIP
