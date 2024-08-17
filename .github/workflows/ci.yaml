@@ -11,6 +11,9 @@ on:
       - 'helm/**'
       - 'k8s/**'
       - 'README.md'
+      - 'ingress-controller/**'
+      - 'gitops/**'
+      - 'password/images/web.png'
 
 jobs:
 
