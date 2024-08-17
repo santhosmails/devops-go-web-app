@@ -10,8 +10,8 @@ image:
   tag: "10432651920"
 
 service:
-  type: NodePort
+  type: ClusterIP
   nodeport: 30007
 
 ingress:
-  enabled: false
+  enabled: true
